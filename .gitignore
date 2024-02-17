@@ -7,4 +7,5 @@ htmlcov/
 .env
 .python-version
 .coverage
+.idea
 env/
