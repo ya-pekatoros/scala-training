@@ -1,0 +1,10 @@
+.archive/
+.venv/
+__pycache__/
+staticfiles/
+htmlcov/
+
+.env
+.python-version
+.coverage
+env/
