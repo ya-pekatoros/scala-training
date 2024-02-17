@@ -7,3 +7,6 @@ test:
 
 test-cov:
 		poetry run coverage xml
+
+install:
+		poetry install
